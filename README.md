@@ -3,4 +3,4 @@
 
 This game is based on the EaselJS example found here: http://www.createjs.com/demos/easeljs/spritesheet
 
-Download the project and run the [Go-Man-Go.html](Go-Man-Go.html) file in your browser to play.
+Go to http://jeffsnowiss.com/fun/go-man-go or download the project and run the [Go-Man-Go.html](Go-Man-Go.html) file in your browser to play.
